@@ -1,0 +1,21 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VMware
+*.vmem
+*.vmsn
+*.vmss
+*.lck
+*.nvram
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
